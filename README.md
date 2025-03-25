@@ -71,4 +71,3 @@ All collected data is openly accessible to the public through the respective pla
 
 We encourage citizen scientists, researchers, and community members to engage with the data, participate in discussions, and contribute to raising awareness about environmental and seismic issues. By leveraging open-source technology, this project aims to empower individuals and communities to take informed actions toward a healthier and more resilient environment.
 
-For more information and to get involved, please visit our GitHub repository: [https://github.com/sepse](https://github.com/sepse)
