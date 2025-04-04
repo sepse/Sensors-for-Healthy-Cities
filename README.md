@@ -60,6 +60,8 @@ The [Raspberry Shake](https://raspberryshake.org/) is a professional-grade seism
 
 By capturing detailed ground motion data, Raspberry Shake contributes valuable information to our understanding of seismic activities in the region.
 
+![diagram](https://github.com/sepse/Sensors-for-Healthy-Cities/blob/main/Graphics/diagram.png)
+
 ## Data Accessibility 📂
 
 All collected data is openly accessible to the public through the respective platforms:
